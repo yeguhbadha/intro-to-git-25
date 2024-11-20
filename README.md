@@ -12,7 +12,7 @@ Welcome to the Git Basics Workshop! This repository contains exercises to help y
 1. Fork this repository by clicking the "Fork" button at the top right of this page
 2. Clone your forked repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/git-workshop
+git clone https://github.com/Xire7/intro-to-git-25
 cd git-workshop
 ```
 
