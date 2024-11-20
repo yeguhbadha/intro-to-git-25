@@ -10,16 +10,18 @@ Welcome to the Git Basics Workshop! This repository contains exercises to help y
 ## Getting Started
 
 1. Fork this repository by clicking the "Fork" button at the top right of this page
-2. Clone your forked repository:
+2. Clone your forked repository in your computer's terminal:
 ```bash
-git clone https://github.com/Xire7/intro-to-git-25
+git clone https://github.com/<github username>/<forked repo name>
+cd <forked repo name>
+mkdir git-workshop
 cd git-workshop
 ```
 
 ## Exercises
 
 ### Exercise 1: Making Your First Commit
-1. Create a new file called `introduction.txt`
+1. Create a new file called `introduction.txt` (`touch introduction.txt` in your terminal or create a new file in your file explorer)
 2. Add your name and one fun fact about yourself
 3. Stage the file:
 ```bash
