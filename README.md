@@ -53,7 +53,8 @@ git merge feature/add-hobby
 ### Exercise 4: Collaboration
 1. Create a new branch called `feature/favorite-foods`
 2. Add a file `favorite-foods.txt` with your top 3 favorite foods
-3. Push your branch to GitHub:
+3. Stage and commit your changes
+4. Push your branch to GitHub:
 ```bash
 git push origin feature/favorite-foods
 ```
